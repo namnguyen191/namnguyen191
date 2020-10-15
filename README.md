@@ -8,3 +8,4 @@
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I love solving coding challenges. I enjoy spending most of my free time learning new web technology.
 
+<img src="https://github-readme-stats.vercel.app/api?username=namnguyen191&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
