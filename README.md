@@ -4,7 +4,7 @@
 - 👯 I’m looking to for opportunies to be more engaging with the Hacking Community :blush:
 - 🤔 I’m looking for help with building my professional career as a developer.
 - 💬 Ask me about anything!
-- 📫 How to reach me: hoangnamnguyen191@gmail.com
+- 📫 How to reach me: [LinkedIn @Nam](https://www.linkedin.com/in/nguyen-vu-hoang-nam-865226132)
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I love solving coding challenges. I enjoy spending most of my free time learning new web technology.
 
